@@ -4,7 +4,7 @@ Your document toolkit for Windows: merge, reorder, compress and convert PDFs, Wo
 
 - Website: https://jatin-jain-123.github.io/carnet/
 - Privacy policy: https://jatin-jain-123.github.io/carnet/privacy.html
-- Microsoft Store: coming soon
+- Microsoft Store: https://apps.microsoft.com/detail/9NG0MKF75N74
 - Support: jatin321jain@gmail.com
 
 This repository only hosts the public website. Carnet is proprietary software.
